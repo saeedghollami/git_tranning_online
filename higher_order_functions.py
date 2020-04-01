@@ -14,3 +14,6 @@ r = list(map(lambda x, y, z: x + y - z, [1, 2, 3, 4], [1, 3, 4, 5], [8, 3, 7, 3]
 print(r)
 
 # this line added form github
+
+
+# git clone let you to get copy of the repository
